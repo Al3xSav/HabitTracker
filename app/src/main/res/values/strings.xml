@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+
+    <!-- Labels -->
+    <string name="habit_title">Habit Title</string>
+    <string name="habit_start_date">Start Date</string>
+    <string name="habit_date">0000&#8211;00:00</string>
+    <string name="habit_counter">Repeat</string>
+    <string name="habit_days">day(s)</string>
+
+    <!-- Hints -->
+    <string name="hint_name">Title</string>
+    <string name="hint_subtitle">Subtitle</string>
+    <string name="hint_quantity">Repeat number</string>
+
+    <!-- Action strings -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Habits</string>
+    <string name="action_save">Save</string>
+
+</resources>
