@@ -1,5 +1,5 @@
 # HabitTracker
-This is a Habit Tracker app, the #7 project for NanoDegree Program
+This is a Habit Tracker app, the #9 project for NanoDegree Program
 
 <p align="center">
   <img src="http://imgur.com/K2TM90J.png" width="350"/>
